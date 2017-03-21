@@ -1,2 +1,4 @@
-# ng-bootstrap-component
-ng-bootstrap-component
+# Angular Bootstrap Component
+
+Angular 2 + ng-bootstrap + Bootstrap v4
+
