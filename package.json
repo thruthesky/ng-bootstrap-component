@@ -1,0 +1,24 @@
+{
+  "name": "ng-bootstrap-components",
+  "version": "0.0.1",
+  "description": "Ng Bootstrap Components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thruthesky/ng-bootstrap-components.git"
+  },
+  "keywords": [
+    "Angular",
+    "Bootstrap",
+    "Components"
+  ],
+  "author": "Withcenter Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thruthesky/ng-bootstrap-components/issues"
+  },
+  "homepage": "https://github.com/thruthesky/ng-bootstrap-components#readme"
+}
